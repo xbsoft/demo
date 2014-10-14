@@ -1,2 +1,2 @@
 test for Git
-added: for make branch
+added: test for make branch
